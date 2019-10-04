@@ -1,0 +1,18 @@
+
+
+1. write a function to print a given number is odd or even. User will provide a number, program will print the output as 'odd' or 'even' using that function.
+
+
+2. write a function to check a number is palindrome or not. user will provide a number, program will the output as boolean value (True/False).
+
+
+3. write a program to cacluate the distance between two points of cartesian coordinates. output needs to be rounded up to 4 digits.
+
+sample input:
+3 3
+4 4
+
+sample output:
+1.4142
+
+
